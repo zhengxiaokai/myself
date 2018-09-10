@@ -9,4 +9,7 @@ public class Animal {
     private String run;
 
     private String scream;
+
+    private String haha;
+
 }
