@@ -14,5 +14,7 @@ public class Animal {
 
     private String hehe;
 
+    private String xixi;
+
 
 }
