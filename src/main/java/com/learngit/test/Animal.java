@@ -8,5 +8,5 @@ public class Animal {
 
     private String run;
 
-
+    private String scream;
 }
