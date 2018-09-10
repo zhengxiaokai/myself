@@ -12,4 +12,7 @@ public class Animal {
 
     private String haha;
 
+    private String hehe;
+
+
 }
